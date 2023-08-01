@@ -2,6 +2,7 @@
  Contains Imp Interview Questions For Apple SDE Roles
 
 #### Source - [Question Link](https://seanprashad.com/leetcode-patterns/)
+#### Source - [Premium leetcode](https://leetcode.com/problemset/all/)
 
 #### For Saving File name and adding Under score  - [Under Score Adder](https://github.com/aayushkumar20/Apple_Interview_SDE_Questions/blob/main/UnderScoreAdder.java)
 
