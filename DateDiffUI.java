@@ -29,9 +29,14 @@ public class DateDiffUI {
                     Date d1 = sdf.parse(inputDate);
                     Date d2 = new Date();
                     long diff = d2.getTime() - d1.getTime();
-                    // ... Calculate differences as before ...
 
-                    // Assuming you have the calculated values stored in diffYears, diffMonths, etc.
+                    long diffSeconds = diff / 1000 % 60;
+                    long diffMinutes = diff / (60 * 1000) % 60;
+                    long diffHours = diff / (60 * 60 * 1000) % 24;
+                    long diffDays = diff / (24 * 60 * 60 * 1000);
+                    long diffMonths = diffDays / 30;
+                    long diffYears = diffDays / 365;
+
                     String resultText = "Difference in years: " + diffYears + "<br>"
                             + "Difference in months: " + diffMonths + "<br>"
                             + "Difference in days: " + diffDays + "<br>"
