@@ -11,7 +11,7 @@
 
 
 # List of problems
-[x] Maximum Value at a Given Index in a Bounded Array
+- [x] Maximum Value at a Given Index in a Bounded Array
 - [x] Integer to English Words
 - [x] Island Perimeter
 - [x] Roman to Integer
