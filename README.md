@@ -5,6 +5,7 @@
 #### Source 2 - [Premium leetcode](https://leetcode.com/problemset/all/)
 
 #### For Saving File name and adding Under score  - [Under Score Adder](https://github.com/aayushkumar20/Apple_Interview_SDE_Questions/blob/main/UnderScoreAdder.java)
+#### For removing under score from file - [Under Score Remover](https://github.com/aayushkumar20/Apple_Interview_SDE_Questions/blob/main/UnderScoreRemover.java)
 
 #### Let's connect on [LinkedIn](www.linkedin.com/in/aayush-kumar-20)
 
